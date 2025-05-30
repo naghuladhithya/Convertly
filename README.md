@@ -5,6 +5,12 @@
 
 ---
 
+## 🔗 Live Demo
+
+🚀 Try out **Convertly** live:  
+👉 [https://naghuladhithya.github.io/Convertly/](https://naghuladhithya.github.io/Convertly/)
+---
+
 ## 📌 Project Objective
 
 The main goals of **Convertly** are to:
@@ -13,13 +19,6 @@ The main goals of **Convertly** are to:
 - 🌍 Allow users to select from a wide range of global currencies with visual flag cues  
 - ⚡ Deliver a fast, responsive, and accessible interface  
 - 📲 Offer a smooth user experience with minimal steps  
-
----
-
-## 🔗 Live Demo
-
-🚀 Try out **Convertly** live:  
-👉 [https://naghuladhithya.github.io/Convertly/](https://naghuladhithya.github.io/Convertly/)
 
 ---
 
