@@ -19,7 +19,7 @@ The main goals of Convertly are to:
 
 | Technology       | Purpose                                                   |
 | ---------------- | --------------------------------------------------------- |
-| **HTML & CSS**   | Building and styling the responsive layout                |
+| **HTML & CSS**   | Building and styling the layout                |
 | **JavaScript**   | Handling dropdowns, fetching exchange rates, and logic    |
 | **Flags API**    | Displaying country flags dynamically                      |
 | **Currency API** | Fetching up-to-date exchange rates from a public endpoint |
