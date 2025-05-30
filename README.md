@@ -5,11 +5,9 @@
 
 ---
 
-## 🔗 Live Demo
-
-🚀 Try out **Convertly** live:  
+🚀 Try out **Convertly**:  
 👉 [https://naghuladhithya.github.io/Convertly/](https://naghuladhithya.github.io/Convertly/)
----
+
 
 ## 📌 Project Objective
 
