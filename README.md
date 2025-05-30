@@ -2,7 +2,7 @@
 
 **Convertly** is a modern, intuitive currency converter designed for simplicity and efficiency. With real-time exchange rates and country flags for visual context, Convertly helps users effortlessly convert values between global currencies.
 
-![Convertly Screenshot](https://naghuladhithya.github.io/Convertly/preview.png) <!-- Replace with actual screenshot URL if available -->
+![Convertly Screenshot](Screenshot 2024-06-21 122443.png) <!-- Replace with actual screenshot URL if available -->
 
 ---
 
